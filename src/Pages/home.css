@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(to right, rgb(0, 6, 6) , rgb(2, 9, 84));
+}
+.box{
+    padding-top: 200px;
+}
+.plus{
+    padding-top: 50px;
+    padding-left: 100px;
+}
+#num{
+    /* padding-left: 60px; */
+    text-align: center;
+    color: rgb(105, 77, 6);
+}
+.hai{
+    align-content: baseline;
+    color: aquamarine;
+}
